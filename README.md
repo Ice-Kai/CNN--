@@ -1,2 +1,3 @@
 # Opencv-study
-OpenCV学习原理
+YOLOV8学习原理
+
