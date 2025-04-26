@@ -1,0 +1,9 @@
+# catdog
+train: dataset\train  # train images
+val: dataset\valid  # val images
+test: dataset\test # test images
+# Classes
+names:
+ 0: dog
+ 1: person
+ 2: cat
